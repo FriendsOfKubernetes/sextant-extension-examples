@@ -1,0 +1,1 @@
+`sextant-examples.pub` is the public part of the key the examples are signed with; the same base64 line is the `publisherKey` of their catalog entries. The secret part is only in the `SEXTANT_EXAMPLES_SIGNING_KEY` secret of this repository.

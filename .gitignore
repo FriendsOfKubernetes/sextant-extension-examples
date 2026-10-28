@@ -1,0 +1,4 @@
+.sextant/
+build/
+out/
+node_modules/
