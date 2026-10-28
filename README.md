@@ -5,7 +5,7 @@ Signed releases of the example extensions of [Sextant](https://github.com/Friend
 | Example | What it does | Source |
 |---|---|---|
 | Hello pods (`sextant.example.hello-page`) | A page that lists pods live, in Sextant's theme | [`sdk/examples/hello-page`](https://github.com/FriendsOfKubernetes/sextant/tree/main/sdk/examples/hello-page) |
-| CRD view (`sextant.example.crd-view`) | A details section, a column and an action for a custom resource | [`sdk/examples/crd-view`](https://github.com/FriendsOfKubernetes/sextant/tree/main/sdk/examples/crd-view) |
+| Widgets (`sextant.example.crd-view`) | A column, a details section, a Scale action and a settings section for the Widget custom resource of Sextant's test cluster | [`sdk/examples/crd-view`](https://github.com/FriendsOfKubernetes/sextant/tree/main/sdk/examples/crd-view) |
 
 The source lives in the Sextant repository, next to the SDK it is written with; this repository only builds and publishes it. Each release says which Sextant commit it was built from.
 
